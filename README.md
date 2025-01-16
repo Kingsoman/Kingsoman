@@ -1,5 +1,4 @@
-Hi, I'm Kingsley Onyeagusi
-## 👋 About Me
+👋Hi, I'm Kingsley Onyeagusi
 Enterprise Solutions Professional with extensive experience across EdTech, Digital Banking, and Energy sectors. Passionate about leveraging saas, data analytics and technology to drive business transformation and sustainable solutions.
 ## 🚀 Professional Experience
 - **Enterprise Sales Lead - EdTech**
