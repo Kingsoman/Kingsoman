@@ -21,11 +21,12 @@ An Enterprise Solutions Professional with extensive experience across EdTech, Di
 ## 🎓 Certifications
 - Certified Data Analytics Professional
 ## 🤝 Open to Collaborate On
-- Enterprise SaaS Solutions
+- Enterprise SaaS Solutions & Innovation 
+- Edtech Solutions & Innovation 
 - Digital Transformation Projects
 - Data Analytics Initiatives
 - Renewable Energy Solutions
-- FinTech Innovations
+- FinTech Solutions & Innovations
 ## 📫 Connect With Me
 Konyeagusi@gmail.com
 ## 💼 Currently Working On
