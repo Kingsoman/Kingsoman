@@ -17,7 +17,7 @@ An Enterprise Solutions Professional with extensive experience across EdTech, Di
 - Business Intelligence
 ## 📚 Publications
 - Author of research article on the global impact of renewable energy and data analytics
-- 🏆Goherts Award Winner -University of Hertfordshire (2021)
+- 🏆Goherts Award Winner -University of Hertfordshire (2021) in recognition of employmentability, enterprise skills & commitment to social responsibility 
 ## 🎓 Certifications
 - Certified Data Analytics Professional
 ## 🤝 Open to Collaborate On
