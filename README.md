@@ -8,6 +8,7 @@ An Enterprise Solutions Professional with extensive experience across EdTech, Di
   Driving digital transformation initiatives in commercial banking
 - **Revenue Assurance Analyst - Energy Sector**
   Implementing data-driven strategies for revenue optimization
+- **Quality Assurance Tester** - evaluating software applications to ensure they meet quality standards and function correctly.
 ## 💡 Expertise
 - Enterprise SaaS Solutions
 - Digital Product Strategy
