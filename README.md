@@ -16,9 +16,17 @@ An Enterprise Solutions Professional with extensive experience across EdTech, Di
 - Revenue Optimization
 - Renewable Energy Analytics
 - Business Intelligence
+- Debugging and profiling
+- Flutter and Dart programming language
+- HTML and Javascript programming language
 ## 📚 Publications
 - Author of research article on the global impact of renewable energy and data analytics
-- 🏆Goherts Award Winner -University of Hertfordshire (2021) in recognition for employmentability, enterprise skills & commitment to social responsibility 
+- Author of research article on the future of enterprise software development growth challenges and opportunities
+- Author of research article on the adverse effects of climate change, solutions and strategies 
+
+## 🏆 **Award**
+- Goherts Award Winner -University of Hertfordshire (2021) in recognition for employmentability, enterprise skills & commitment to social responsibility
+
 ## 🎓 Certifications
 - Certified Data Analytics Professional
 ## 🤝 Open to Collaborate On
